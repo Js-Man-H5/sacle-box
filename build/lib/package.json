@@ -1,0 +1,21 @@
+{
+  "name": "sacle-box",
+  "version": "1.0.10",
+  "description": "大屏适配组件",
+  "main": "lib.umd.js",
+  "module": "lib.mjs",
+  "types": "lib.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fit",
+    "适配",
+    "大屏适配组件",
+    "sacle",
+    "SacleBox",
+    "vue3"
+  ],
+  "author": "jack.hai",
+  "license": "ISC"
+}
