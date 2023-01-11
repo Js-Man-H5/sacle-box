@@ -18,6 +18,9 @@
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
   },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/sacle-box"
+  },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
     "@types/node": "^18.11.12",

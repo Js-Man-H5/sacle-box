@@ -1,7 +1,7 @@
 <!--
  * @Author: jack.hai
  * @Date: 2023-01-05 15:45:11
- * @LastEditTime: 2023-01-11 19:34:43
+ * @LastEditTime: 2023-01-11 19:53:50
  * @Description: 
 -->
 # sacle-box
@@ -46,5 +46,7 @@
 
 ```    
 
+
+### 有问题提 issues 看到后会在第一时间修复
 
 

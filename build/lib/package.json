@@ -1,12 +1,16 @@
 {
   "name": "sacle-box",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "大屏适配组件",
   "main": "lib.umd.js",
   "module": "lib.mjs",
   "types": "lib.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Js-Man-H5/sacle-box.git"
   },
   "keywords": [
     "fit",
